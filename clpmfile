@@ -4,3 +4,6 @@
 (:source "quicklisp" :url "https://quicklisp.common-lisp-project-index.org/" :type :ql-clpi)
 
 (:asd "aws-sdk-cl.asd")
+
+;; Dev Dependencies
+(:system :swank)

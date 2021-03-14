@@ -7,8 +7,8 @@ have pulled in the latest aws-sdk specs as of 3.12.2021 and made some other
 updates. I've changed the build process a bit and I don't want to force those
 changes on anyone, so I am going to rename this fork and see where it goes.
 
-It is currently broken.  None of the v4 signing is working.  Once I have that
-fixed I am likely going to make more changes, so consider this Alpha.
+I am likely going to make more changes, so consider this Alpha.  See issues
+for known issues on which I am currently working.
 
 ## Usage
 
